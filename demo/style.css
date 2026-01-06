@@ -56,7 +56,7 @@ img {
 }
 main {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-center;
     align-items: center;
     padding: 50px 10%;
     background-color: white;
@@ -133,4 +133,5 @@ main .card-image img {
 footer {
     width: 100%;
     text-align: center;
+
 }
