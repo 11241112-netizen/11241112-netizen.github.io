@@ -46,7 +46,6 @@ header ul li a {
 img {
     max-width: 100%;
     height: auto;
-    object-fit: cover;
     display: block;
 }
 .highlight {
@@ -123,7 +122,7 @@ section .card .card-image {
 }
 .main-container .card-image img {
     height: auto;
-    width: 100px;
+    width: 400px;
     object-fit: contain;
 }
 .date {
